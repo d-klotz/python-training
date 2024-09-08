@@ -1,0 +1,1 @@
+## Calculates the caos 1 gym user can cause in a gym session
